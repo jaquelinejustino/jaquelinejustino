@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there, I'm Jaqueline Justino 👋
+I'm passionate about data. I gather, clean, and evaluate data sets to answer questions to solve problems. I'm Specialised in Business Intelligence and Analytics. I'm very curious and always look to improve my skilss.
 
-<!--
-**jaquelinejustino/jaquelinejustino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+<h2 align="left">Languages and Tools:</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![PowerBI](https://img.shields.io/badge/-Power%20BI-black?style=plastic&logo=Power-BI)
+![Tableau](https://img.shields.io/badge/-Tableau-black?style=plastic&logo=Tableau)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+
+
+<br>
+
+<h2 align="left">Connect with me:</h2><p align="left">
+
+<a href="https://www.linkedin.com/in/jaqueline-justino/">
+  <img align="left" alt="Jaqueline LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/>
+
+</a>
