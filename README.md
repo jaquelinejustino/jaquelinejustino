@@ -1,21 +1,25 @@
-### Hi there, I'm Jaqueline Justino 👋
-I'm passionate about data. I gather, clean, and evaluate data sets to answer questions to solve problems. I'm Specialised in Business Intelligence and Analytics. I'm very curious and always look to improve my skilss.
+<h3 align="center"> Hi folks, nice to meet you! 👋</h3>
+<p align="center">I’m a technology aspirant still looking for my role, I am currently enjoying the data field and definetely, these are things you’ll find around here. My favorite hobbies involve culture, travel (I'm a "<em>google traveler</em>"), literature and languages.</p>
+<p align="center">My background ? I’m a economist and I worked in customer service area for about 11 years.</p>
 
 <br>
 
-<h2 align="left">Languages and Tools:</h2>
-
-![PowerBI](https://img.shields.io/badge/-Power%20BI-black?style=plastic&logo=Power-BI)
-![Tableau](https://img.shields.io/badge/-Tableau-black?style=plastic&logo=Tableau)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-
+<h4 align="center"> Some tools & technologies</h4>
+<div style="display: inline_block" align="center">
+  <img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img width="30" src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png" />
+  <img width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" />
+  <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
 <br>
 
-<h2 align="left">Connect with me:</h2><p align="left">
+<h4 align="center"> Where you can also find me: </h4>
 
-<a href="https://www.linkedin.com/in/jaqueline-justino/">
-  <img align="left" alt="Jaqueline LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/>
+<div align="center"> 
+  <a href = "mailto:justinojaqueline@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jaqueline-justino/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  </a>
+</div>
 
-</a>
+
+<h3 align="center"> Thanks for your visit, see ya!</h3>
