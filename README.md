@@ -1,5 +1,5 @@
 ### Olá, sejam bem-vindos ao meu GitHub! 👋
-Me chamo Jaqueline, e atuo a 2 anos com dados. Aqui você pode encontrar alguns trabalhos que envolvem análise de dados e business intelligence (♥).
+Me chamo Jaqueline e atuo a 2 anos na área de dados. Aqui você pode encontrar alguns trabalhos que envolvem análise de dados e business intelligence (♥).
 
 👉 [Portfólio](https://jaquelinejustino.github.io/portifolio/)
 
